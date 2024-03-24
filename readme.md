@@ -52,5 +52,10 @@ while True:
  - show_of - Shows text "```x``` in ```max_value``` ```units```"
  - show_speed - Shows speed
 
+## Install
+```pip install beautider```
+
+On PyPl: https://pypi.org/project/beautider/
+
 ## Developer
 By bolgaro4ka. [Link](https://github.com/bolgaro4ka)
